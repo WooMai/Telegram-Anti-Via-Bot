@@ -1,0 +1,10 @@
+{
+    "name": "woomai/anti-via-bot",
+    "description": "Delete Telegram Inline Bot messages automatically.",
+    "type": "project",
+    "require": {
+        "php": "^5.3 || ^7.0 || ^8.0",
+        "ext-json": "*"
+    },
+    "license": "MIT"
+}
