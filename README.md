@@ -13,4 +13,5 @@ php init.php 18334XXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX https://your.web.host/ant
 
 ## License
 
-MIT
+This project is licensed under the [DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](LICENSE).
+
